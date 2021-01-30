@@ -5,7 +5,7 @@
 - 🌱 I'm an armchair expert in Product Management & Entrepreneurship (would like to venture there hands on some day) 
 - ⚡ In my free time, I read books/blogs/essays 📚, learn to play the Ukulele 🎸, and watch Chelsea's ⚽️ games
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaineil&hide_border=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
+<img alt="Jaineil's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jaineil&hide_title=true&hide_border=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
 
 <!-- social media buttons --> 
 _You can connect with me here! I mostly retweet stuff_ 🙂
