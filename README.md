@@ -8,8 +8,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jaineil&hide_border=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
 
 <!-- social media buttons --> 
-You can connect with me here! _I mostly retweet stuff_ 🙂
-<br>
+_You can connect with me here! I mostly retweet stuff_ 🙂
+
 [![Twitter][1.2]][1]
 <br>
 [![LinkedIn][2.2]][2]
