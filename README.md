@@ -27,4 +27,4 @@ _You can connect with me here! I mostly retweet stuff_ 🙂
 
 <!-- social media links -->
 [1]: https://twitter.com/_jaineil
-[2]: https://www.linkedin.com/in/jaineil-mandavia-171176140/
+[2]: https://www.linkedin.com/in/jaineilmandavia/
