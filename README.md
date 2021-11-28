@@ -1,11 +1,11 @@
 ### Hey there! 👋
 
-- 👨‍🎓 I'm a graduate student pursuing my Master's (MS) in Computer Software Engineering @ San Jose State University
+- 👨‍🎓 I'm a graduate student pursuing my Master's in Software Engineering @ San Jose State University
 - 🤓 I love exploring anything related to CS, but I'm a backend-focused Software Engineer by profession.
 - 🌱 I know a little about a lot of things in tech. I read extensively about System Design, Backend Engineering, and Code-design Principles. I see myself as a perennial learner. 
 ---
 - 🧑‍💻 I have one-year of experience in delivering 0️⃣ to 1️⃣ systems in an early-stage startup environment within the ed-tech domain. 
-- 👨‍🔧 I have engineered scalable, testable solutions for practical problems in Computer Vision while building [Cerebranium's](https://cerebranium.com/) state-of-the-art AI Proctoring System. I also worked on the entire suite of APIs for their [Promexa Institution](https://play.google.com/store/apps/details?id=com.cerebranium.betaorionis.institution&hl=en_IN&gl=US) mobile app using TypeScript (Node.js) in a Test-Driven Development environment, with Uncle Bob’s Clean Architecture principles.
+- 👨‍🔧 I have engineered scalable, testable solutions for practical problems in Computer Vision while building [Cerebranium's](https://cerebranium.com/) state-of-the-art AI Proctoring System. I also worked on the entire suite of mobile-backend APIs for their [Promexa Institution](https://play.google.com/store/apps/details?id=com.cerebranium.betaorionis.institution&hl=en_IN&gl=US) mobile app using TypeScript (Node.js) in a Test-Driven Development environment, with Uncle Bob’s Clean Architecture principles.
 - 😛 Not to mention but, I write fairly pretty code. ✨
 - ⚙️ In my work, I write code in Python and JavaScript/TypeScript. I've exposure to technologies like Python (OpenCV, TensorFlow 2.0), JavaScript/TypeScript (Node.js, Express.js), Firebase Firestore, Google Cloud Platform (Cloud Functions, Cloud Tasks, Cloud PubSub, Compute Engine, Cloud Storage), Docker.
 ---
