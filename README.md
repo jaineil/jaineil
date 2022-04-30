@@ -10,7 +10,7 @@
 - ⚙️ In my work, I write code in Python and JavaScript/TypeScript. I've exposure to technologies like Python (OpenCV, TensorFlow 2.0), JavaScript/TypeScript (Node.js, Express.js), Firebase Firestore, Google Cloud Platform (Cloud Functions, Cloud Tasks, Cloud PubSub, Compute Engine, Cloud Storage), Docker.
 ---
 - 😅 Other than being a developer, I love to get into discussions around startups & businesses, investing, product & philosophy.
-- ⚡ In my free time, I read books/blogs/essays 📚, learn to play the Ukulele 🎸, and watch Chelsea's games ⚽️ , and like to get in good workouts 🏋️
+- ⚡ In my free time, I read books/blogs/essays 📚, watch Chelsea's games ⚽️ , and like to get in good workouts 🏋️
 ---
 <img alt="Jaineil's GitHub stats" align="left" src="https://github-readme-stats.vercel.app/api?username=jaineil&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true">
 
