@@ -6,12 +6,13 @@
 - 🌱 I know a little about a lot of things in tech. I read extensively about System Design, Backend Engineering, and Code-design Principles. I see myself as a perennial learner. Not to mention, I write fairly pretty code. 😛 ✨
 ---
 ### My work 💻
-- 🧑‍💻 Currently, I'm working as a Software Engineering Co-op Intern at Sikka AI. 
+- 🧑‍💻 Currently, I'm working as a Software Engineer - Infrastructure at Sikka AI.
   - 👨‍🔧 I'm responsible for building and maintaining a fair share of the cloud infrastructure on AWS and Kubernetes.
+  - I also write services on AWS that contribute to building resilient distributed systems for a lot of engineering teams.
 - 🔙 Previously, I worked as a Software Engineering Intern at Coursera during the Summer 2022 break of my Master's. 
-  - I implemented cache-aside with TTL in Java to manage periodic updates to the demo admin list for the enterprise platform.
   - 😮 My primary focus was writing and maintaining scalable Java Spring Boot gRPC services to efficiently load and store user settings, impacting ~90 million registered users.
-- 🔙 I also have one-year of experience in delivering 0️⃣ to 1️⃣ systems in an early-stage startup, [Cerebranium's](https://cerebranium.com/) building in the ed-tech domain. 
+  - I also implemented cache-aside with TTL in Java to manage periodic updates to the demo admin access for the enterprise platform.
+- 🔙 I also have one year of experience in delivering 0️⃣ to 1️⃣ systems in an early-stage startup, [Cerebranium's](https://cerebranium.com/) building in the ed-tech domain. 
   - 👨‍🔧 There I have engineered scalable, testable solutions for practical problems in Computer Vision while building their state-of-the-art AI Proctoring System. 
   - I also worked on the entire suite of mobile-backend APIs for their [Promexa Institution](https://play.google.com/store/apps/details?id=com.cerebranium.betaorionis.institution&hl=en_IN&gl=US) mobile app using TypeScript in Node.js environment, following Test-Driven Development environment and Uncle Bob’s Clean Architecture principles.
 - ⚙ I have worked on some awesome full-stack projects in my Master's so far - [UberEats clone](https://github.com/jaineil/uber-eats-clone), [Indeed.com clone](https://github.com/jaineil/indeed-clone) and [Cloud Event Center](https://github.com/jaineil/cloud-event-center). Feel free to checkout the source code here on my GitHub.
