@@ -1,12 +1,14 @@
 ### Hey there, a little bit about me 👋
 
+- 📍 I'm currently based out in Seattle, WA. 🏔️🇺🇸 | But I'm originally from Mumbai, India. 🇮🇳
 - 👨‍🎓 I graduated with a Master's degree in Software Engineering from San Jose State University.
-- 📍 I'm currently based out in San Jose, CA. 🇺🇸 | But I'm originally from Mumbai, India. 🇮🇳
 - 🤓 I love exploring anything related to computers, and I'm thriving to become a T-shaped backend developer with a strong interest in distributed systems.
 - 🌱 I know a little about a lot of things in tech. I read extensively about designing systems, internal workings, code design principles, and coding best practices. I see myself as a perennial learner. Small brag but, I can write fairly pretty code. 😛 ✨
 ---
 ### My work 💻
-- 🧑‍💻 Currently, I'm working as a Software Engineer for Infra team at [Sikka AI](https://sikka.ai/).
+- 🧑‍💻 Currently, I work as a Software Engineer for the Physical Retail Payments team at Amazon.
+  - I'm responsible for designing, developing, testing, and releasing tier-1 payments critical microservices, catering to the physical stores owned/powered by Amazon. 
+- 🔙 Previously, I worked as a Software Engineer for Infra team at [Sikka AI](https://sikka.ai/).
   - 👨‍🔧 I'm responsible for deploying and maintaining the cloud infrastructure on Kubernetes.
   - I also write services on AWS that contribute to building resilient distributed systems for a lot of engineering teams.
 - 🔙 Previously, I worked as a Software Engineering Intern at Coursera during the Summer 2022 break of my Master's. 
